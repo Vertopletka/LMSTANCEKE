@@ -6,7 +6,7 @@ import os
 # --- Константы ---
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Tanchiki: Pro Edition (Full Effects)"
+SCREEN_TITLE = "Tancheke"
 SAVE_FILE = "record.txt"
 
 TILE_SIZE = 40
